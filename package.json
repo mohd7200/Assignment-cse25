@@ -1,0 +1,12 @@
+{
+  "name": "campus-help-desk",
+  "version": "1.0.0",
+  "description": "Campus Help Desk",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
