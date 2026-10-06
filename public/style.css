@@ -1,0 +1,191 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #eef2ff;
+    color: #1f2937;
+    min-height: 100vh;
+}
+
+.container {
+    width: 92%;
+    max-width: 1050px;
+    margin: 40px auto;
+}
+
+/* HEADER */
+
+header,
+.container > h1 {
+    text-align: center;
+}
+
+.container > h1 {
+    font-size: 42px;
+    color: #1e3a8a;
+    margin-bottom: 8px;
+}
+
+.container > h1::after {
+    content: " ";
+    display: block;
+    width: 70px;
+    height: 4px;
+    background: #2563eb;
+    margin: 12px auto 30px;
+    border-radius: 10px;
+}
+
+/* FORM */
+
+form {
+    background: white;
+    padding: 30px;
+    border-radius: 18px;
+    box-shadow: 0 10px 30px rgba(30, 58, 138, 0.12);
+    margin-bottom: 35px;
+}
+
+label {
+    display: block;
+    margin-top: 18px;
+    margin-bottom: 7px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #374151;
+}
+
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 13px 15px;
+    border: 1px solid #d1d5db;
+    border-radius: 10px;
+    font-size: 15px;
+    background: #f9fafb;
+    outline: none;
+    transition: 0.2s;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    border-color: #2563eb;
+    background: white;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
+}
+
+textarea {
+    min-height: 120px;
+    resize: vertical;
+}
+
+/* BUTTONS */
+
+button {
+    border: none;
+    padding: 12px 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background: #2563eb;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+button:hover {
+    transform: translateY(-1px);
+    opacity: 0.92;
+}
+
+#cancelBtn {
+    background: #6b7280;
+    margin-left: 8px;
+}
+
+/* REQUEST HEADING */
+
+h2 {
+    color: #1e3a8a;
+    margin-bottom: 18px;
+}
+
+/* REQUEST CARD */
+
+.request {
+    background: white;
+    padding: 22px;
+    margin-bottom: 18px;
+    border-radius: 15px;
+    border-left: 5px solid #2563eb;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.07);
+    transition: 0.2s;
+}
+
+.request:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.request h3 {
+    color: #1e3a8a;
+    margin-bottom: 12px;
+    font-size: 20px;
+}
+
+.request p {
+    margin: 8px 0;
+    color: #4b5563;
+    line-height: 1.5;
+}
+
+.request p strong {
+    color: #111827;
+}
+
+/* EDIT BUTTON */
+
+.edit {
+    background: #16a34a;
+    margin-right: 5px;
+}
+
+/* DELETE BUTTON */
+
+.delete {
+    background: #dc2626;
+}
+
+/* MOBILE */
+
+@media (max-width: 600px) {
+
+    .container {
+        width: 94%;
+        margin: 25px auto;
+    }
+
+    .container > h1 {
+        font-size: 30px;
+    }
+
+    form {
+        padding: 20px;
+    }
+
+    #cancelBtn {
+        margin-left: 0;
+    }
+
+    .request button {
+        width: 100%;
+        margin-right: 0;
+    }
+}
