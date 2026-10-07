@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "price": 12.49,
+    "category": "Electronics",
+    "description": "Quality product number 1 for everyday use."
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "price": 14.99,
+    "category": "Clothing",
+    "description": "Quality product number 2 for everyday use."
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "price": 17.49,
+    "category": "Books",
+    "description": "Quality product number 3 for everyday use."
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "price": 19.99,
+    "category": "Home",
+    "description": "Quality product number 4 for everyday use."
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "price": 22.49,
+    "category": "Sports",
+    "description": "Quality product number 5 for everyday use."
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "price": 24.99,
+    "category": "Electronics",
+    "description": "Quality product number 6 for everyday use."
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "price": 27.49,
+    "category": "Clothing",
+    "description": "Quality product number 7 for everyday use."
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "price": 29.99,
+    "category": "Books",
+    "description": "Quality product number 8 for everyday use."
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "price": 32.49,
+    "category": "Home",
+    "description": "Quality product number 9 for everyday use."
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "price": 34.99,
+    "category": "Sports",
+    "description": "Quality product number 10 for everyday use."
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "price": 37.49,
+    "category": "Electronics",
+    "description": "Quality product number 11 for everyday use."
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "price": 39.99,
+    "category": "Clothing",
+    "description": "Quality product number 12 for everyday use."
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "price": 42.49,
+    "category": "Books",
+    "description": "Quality product number 13 for everyday use."
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "price": 44.99,
+    "category": "Home",
+    "description": "Quality product number 14 for everyday use."
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "price": 47.49,
+    "category": "Sports",
+    "description": "Quality product number 15 for everyday use."
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "price": 49.99,
+    "category": "Electronics",
+    "description": "Quality product number 16 for everyday use."
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "price": 52.49,
+    "category": "Clothing",
+    "description": "Quality product number 17 for everyday use."
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "price": 54.99,
+    "category": "Books",
+    "description": "Quality product number 18 for everyday use."
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "price": 57.49,
+    "category": "Home",
+    "description": "Quality product number 19 for everyday use."
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "price": 59.99,
+    "category": "Sports",
+    "description": "Quality product number 20 for everyday use."
+  },
+  {
+    "id": 21,
+    "name": "Product 21",
+    "price": 62.49,
+    "category": "Electronics",
+    "description": "Quality product number 21 for everyday use."
+  },
+  {
+    "id": 22,
+    "name": "Product 22",
+    "price": 64.99,
+    "category": "Clothing",
+    "description": "Quality product number 22 for everyday use."
+  },
+  {
+    "id": 23,
+    "name": "Product 23",
+    "price": 67.49,
+    "category": "Books",
+    "description": "Quality product number 23 for everyday use."
+  },
+  {
+    "id": 24,
+    "name": "Product 24",
+    "price": 69.99,
+    "category": "Home",
+    "description": "Quality product number 24 for everyday use."
+  },
+  {
+    "id": 25,
+    "name": "Product 25",
+    "price": 72.49,
+    "category": "Sports",
+    "description": "Quality product number 25 for everyday use."
+  },
+  {
+    "id": 26,
+    "name": "Product 26",
+    "price": 74.99,
+    "category": "Electronics",
+    "description": "Quality product number 26 for everyday use."
+  },
+  {
+    "id": 27,
+    "name": "Product 27",
+    "price": 77.49,
+    "category": "Clothing",
+    "description": "Quality product number 27 for everyday use."
+  },
+  {
+    "id": 28,
+    "name": "Product 28",
+    "price": 79.99,
+    "category": "Books",
+    "description": "Quality product number 28 for everyday use."
+  },
+  {
+    "id": 29,
+    "name": "Product 29",
+    "price": 82.49,
+    "category": "Home",
+    "description": "Quality product number 29 for everyday use."
+  },
+  {
+    "id": 30,
+    "name": "Product 30",
+    "price": 84.99,
+    "category": "Sports",
+    "description": "Quality product number 30 for everyday use."
+  },
+  {
+    "id": 31,
+    "name": "Product 31",
+    "price": 87.49,
+    "category": "Electronics",
+    "description": "Quality product number 31 for everyday use."
+  },
+  {
+    "id": 32,
+    "name": "Product 32",
+    "price": 89.99,
+    "category": "Clothing",
+    "description": "Quality product number 32 for everyday use."
+  },
+  {
+    "id": 33,
+    "name": "Product 33",
+    "price": 92.49,
+    "category": "Books",
+    "description": "Quality product number 33 for everyday use."
+  },
+  {
+    "id": 34,
+    "name": "Product 34",
+    "price": 94.99,
+    "category": "Home",
+    "description": "Quality product number 34 for everyday use."
+  },
+  {
+    "id": 35,
+    "name": "Product 35",
+    "price": 97.49,
+    "category": "Sports",
+    "description": "Quality product number 35 for everyday use."
+  },
+  {
+    "id": 36,
+    "name": "Product 36",
+    "price": 99.99,
+    "category": "Electronics",
+    "description": "Quality product number 36 for everyday use."
+  },
+  {
+    "id": 37,
+    "name": "Product 37",
+    "price": 102.49,
+    "category": "Clothing",
+    "description": "Quality product number 37 for everyday use."
+  },
+  {
+    "id": 38,
+    "name": "Product 38",
+    "price": 104.99,
+    "category": "Books",
+    "description": "Quality product number 38 for everyday use."
+  },
+  {
+    "id": 39,
+    "name": "Product 39",
+    "price": 107.49,
+    "category": "Home",
+    "description": "Quality product number 39 for everyday use."
+  },
+  {
+    "id": 40,
+    "name": "Product 40",
+    "price": 109.99,
+    "category": "Sports",
+    "description": "Quality product number 40 for everyday use."
+  },
+  {
+    "id": 41,
+    "name": "Product 41",
+    "price": 112.49,
+    "category": "Electronics",
+    "description": "Quality product number 41 for everyday use."
+  },
+  {
+    "id": 42,
+    "name": "Product 42",
+    "price": 114.99,
+    "category": "Clothing",
+    "description": "Quality product number 42 for everyday use."
+  },
+  {
+    "id": 43,
+    "name": "Product 43",
+    "price": 117.49,
+    "category": "Books",
+    "description": "Quality product number 43 for everyday use."
+  },
+  {
+    "id": 44,
+    "name": "Product 44",
+    "price": 119.99,
+    "category": "Home",
+    "description": "Quality product number 44 for everyday use."
+  },
+  {
+    "id": 45,
+    "name": "Product 45",
+    "price": 122.49,
+    "category": "Sports",
+    "description": "Quality product number 45 for everyday use."
+  },
+  {
+    "id": 46,
+    "name": "Product 46",
+    "price": 124.99,
+    "category": "Electronics",
+    "description": "Quality product number 46 for everyday use."
+  },
+  {
+    "id": 47,
+    "name": "Product 47",
+    "price": 127.49,
+    "category": "Clothing",
+    "description": "Quality product number 47 for everyday use."
+  },
+  {
+    "id": 48,
+    "name": "Product 48",
+    "price": 129.99,
+    "category": "Books",
+    "description": "Quality product number 48 for everyday use."
+  },
+  {
+    "id": 49,
+    "name": "Product 49",
+    "price": 132.49,
+    "category": "Home",
+    "description": "Quality product number 49 for everyday use."
+  },
+  {
+    "id": 50,
+    "name": "Product 50",
+    "price": 134.99,
+    "category": "Sports",
+    "description": "Quality product number 50 for everyday use."
+  },
+  {
+    "id": 51,
+    "name": "Product 51",
+    "price": 137.49,
+    "category": "Electronics",
+    "description": "Quality product number 51 for everyday use."
+  },
+  {
+    "id": 52,
+    "name": "Product 52",
+    "price": 139.99,
+    "category": "Clothing",
+    "description": "Quality product number 52 for everyday use."
+  },
+  {
+    "id": 53,
+    "name": "Product 53",
+    "price": 142.49,
+    "category": "Books",
+    "description": "Quality product number 53 for everyday use."
+  },
+  {
+    "id": 54,
+    "name": "Product 54",
+    "price": 144.99,
+    "category": "Home",
+    "description": "Quality product number 54 for everyday use."
+  },
+  {
+    "id": 55,
+    "name": "Product 55",
+    "price": 147.49,
+    "category": "Sports",
+    "description": "Quality product number 55 for everyday use."
+  },
+  {
+    "id": 56,
+    "name": "Product 56",
+    "price": 149.99,
+    "category": "Electronics",
+    "description": "Quality product number 56 for everyday use."
+  },
+  {
+    "id": 57,
+    "name": "Product 57",
+    "price": 152.49,
+    "category": "Clothing",
+    "description": "Quality product number 57 for everyday use."
+  },
+  {
+    "id": 58,
+    "name": "Product 58",
+    "price": 154.99,
+    "category": "Books",
+    "description": "Quality product number 58 for everyday use."
+  },
+  {
+    "id": 59,
+    "name": "Product 59",
+    "price": 157.49,
+    "category": "Home",
+    "description": "Quality product number 59 for everyday use."
+  },
+  {
+    "id": 60,
+    "name": "Product 60",
+    "price": 159.99,
+    "category": "Sports",
+    "description": "Quality product number 60 for everyday use."
+  },
+  {
+    "id": 61,
+    "name": "Product 61",
+    "price": 162.49,
+    "category": "Electronics",
+    "description": "Quality product number 61 for everyday use."
+  },
+  {
+    "id": 62,
+    "name": "Product 62",
+    "price": 164.99,
+    "category": "Clothing",
+    "description": "Quality product number 62 for everyday use."
+  },
+  {
+    "id": 63,
+    "name": "Product 63",
+    "price": 167.49,
+    "category": "Books",
+    "description": "Quality product number 63 for everyday use."
+  },
+  {
+    "id": 64,
+    "name": "Product 64",
+    "price": 169.99,
+    "category": "Home",
+    "description": "Quality product number 64 for everyday use."
+  },
+  {
+    "id": 65,
+    "name": "Product 65",
+    "price": 172.49,
+    "category": "Sports",
+    "description": "Quality product number 65 for everyday use."
+  },
+  {
+    "id": 66,
+    "name": "Product 66",
+    "price": 174.99,
+    "category": "Electronics",
+    "description": "Quality product number 66 for everyday use."
+  },
+  {
+    "id": 67,
+    "name": "Product 67",
+    "price": 177.49,
+    "category": "Clothing",
+    "description": "Quality product number 67 for everyday use."
+  },
+  {
+    "id": 68,
+    "name": "Product 68",
+    "price": 179.99,
+    "category": "Books",
+    "description": "Quality product number 68 for everyday use."
+  },
+  {
+    "id": 69,
+    "name": "Product 69",
+    "price": 182.49,
+    "category": "Home",
+    "description": "Quality product number 69 for everyday use."
+  },
+  {
+    "id": 70,
+    "name": "Product 70",
+    "price": 184.99,
+    "category": "Sports",
+    "description": "Quality product number 70 for everyday use."
+  },
+  {
+    "id": 71,
+    "name": "Product 71",
+    "price": 187.49,
+    "category": "Electronics",
+    "description": "Quality product number 71 for everyday use."
+  },
+  {
+    "id": 72,
+    "name": "Product 72",
+    "price": 189.99,
+    "category": "Clothing",
+    "description": "Quality product number 72 for everyday use."
+  },
+  {
+    "id": 73,
+    "name": "Product 73",
+    "price": 192.49,
+    "category": "Books",
+    "description": "Quality product number 73 for everyday use."
+  },
+  {
+    "id": 74,
+    "name": "Product 74",
+    "price": 194.99,
+    "category": "Home",
+    "description": "Quality product number 74 for everyday use."
+  },
+  {
+    "id": 75,
+    "name": "Product 75",
+    "price": 197.49,
+    "category": "Sports",
+    "description": "Quality product number 75 for everyday use."
+  },
+  {
+    "id": 76,
+    "name": "Product 76",
+    "price": 199.99,
+    "category": "Electronics",
+    "description": "Quality product number 76 for everyday use."
+  },
+  {
+    "id": 77,
+    "name": "Product 77",
+    "price": 202.49,
+    "category": "Clothing",
+    "description": "Quality product number 77 for everyday use."
+  },
+  {
+    "id": 78,
+    "name": "Product 78",
+    "price": 204.99,
+    "category": "Books",
+    "description": "Quality product number 78 for everyday use."
+  },
+  {
+    "id": 79,
+    "name": "Product 79",
+    "price": 207.49,
+    "category": "Home",
+    "description": "Quality product number 79 for everyday use."
+  },
+  {
+    "id": 80,
+    "name": "Product 80",
+    "price": 209.99,
+    "category": "Sports",
+    "description": "Quality product number 80 for everyday use."
+  },
+  {
+    "id": 81,
+    "name": "Product 81",
+    "price": 212.49,
+    "category": "Electronics",
+    "description": "Quality product number 81 for everyday use."
+  },
+  {
+    "id": 82,
+    "name": "Product 82",
+    "price": 214.99,
+    "category": "Clothing",
+    "description": "Quality product number 82 for everyday use."
+  },
+  {
+    "id": 83,
+    "name": "Product 83",
+    "price": 217.49,
+    "category": "Books",
+    "description": "Quality product number 83 for everyday use."
+  },
+  {
+    "id": 84,
+    "name": "Product 84",
+    "price": 219.99,
+    "category": "Home",
+    "description": "Quality product number 84 for everyday use."
+  },
+  {
+    "id": 85,
+    "name": "Product 85",
+    "price": 222.49,
+    "category": "Sports",
+    "description": "Quality product number 85 for everyday use."
+  },
+  {
+    "id": 86,
+    "name": "Product 86",
+    "price": 224.99,
+    "category": "Electronics",
+    "description": "Quality product number 86 for everyday use."
+  },
+  {
+    "id": 87,
+    "name": "Product 87",
+    "price": 227.49,
+    "category": "Clothing",
+    "description": "Quality product number 87 for everyday use."
+  },
+  {
+    "id": 88,
+    "name": "Product 88",
+    "price": 229.99,
+    "category": "Books",
+    "description": "Quality product number 88 for everyday use."
+  },
+  {
+    "id": 89,
+    "name": "Product 89",
+    "price": 232.49,
+    "category": "Home",
+    "description": "Quality product number 89 for everyday use."
+  },
+  {
+    "id": 90,
+    "name": "Product 90",
+    "price": 234.99,
+    "category": "Sports",
+    "description": "Quality product number 90 for everyday use."
+  },
+  {
+    "id": 91,
+    "name": "Product 91",
+    "price": 237.49,
+    "category": "Electronics",
+    "description": "Quality product number 91 for everyday use."
+  },
+  {
+    "id": 92,
+    "name": "Product 92",
+    "price": 239.99,
+    "category": "Clothing",
+    "description": "Quality product number 92 for everyday use."
+  },
+  {
+    "id": 93,
+    "name": "Product 93",
+    "price": 242.49,
+    "category": "Books",
+    "description": "Quality product number 93 for everyday use."
+  },
+  {
+    "id": 94,
+    "name": "Product 94",
+    "price": 244.99,
+    "category": "Home",
+    "description": "Quality product number 94 for everyday use."
+  },
+  {
+    "id": 95,
+    "name": "Product 95",
+    "price": 247.49,
+    "category": "Sports",
+    "description": "Quality product number 95 for everyday use."
+  },
+  {
+    "id": 96,
+    "name": "Product 96",
+    "price": 249.99,
+    "category": "Electronics",
+    "description": "Quality product number 96 for everyday use."
+  },
+  {
+    "id": 97,
+    "name": "Product 97",
+    "price": 252.49,
+    "category": "Clothing",
+    "description": "Quality product number 97 for everyday use."
+  },
+  {
+    "id": 98,
+    "name": "Product 98",
+    "price": 254.99,
+    "category": "Books",
+    "description": "Quality product number 98 for everyday use."
+  },
+  {
+    "id": 99,
+    "name": "Product 99",
+    "price": 257.49,
+    "category": "Home",
+    "description": "Quality product number 99 for everyday use."
+  },
+  {
+    "id": 100,
+    "name": "Product 100",
+    "price": 259.99,
+    "category": "Sports",
+    "description": "Quality product number 100 for everyday use."
+  }
+]

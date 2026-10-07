@@ -1,0 +1,12 @@
+{
+  "name": "assignment-2-express-products-api",
+  "version": "1.0.0",
+  "description": "Express.js REST API containing 100 products",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
